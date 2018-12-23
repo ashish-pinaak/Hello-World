@@ -2,8 +2,13 @@
 
 using namespace std;
 
+void intro()
+{
+    cout<<"Hello World!\nThis is Ashish Sahrawat";
+}
+
 int main()
 {
-    cout<<"Hello World";
+    intro();
     return 0;
 }
